@@ -312,3 +312,24 @@ These screenshots provide visual verification of the implemented design.
 Author
 
 Shabbir Shaik
+## Simulation Results
+
+### 1. Behavioral Simulation Waveform
+
+![Simulation Waveform](simulation_waveform.png)
+
+### 2. Register File Verification
+
+![Register File Verification](register_file_verification.png)
+
+### 3. RTL Design Hierarchy
+
+![RTL Design Hierarchy](rtl_design_hierarchy.png)
+
+### 4. Synthesized Design
+
+![Synthesized Design](synthesized_design.png)
+
+### 5. RTL Datapath Schematic
+
+![RTL Datapath Schematic](rtl_datapath_schematic.png)
