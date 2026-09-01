@@ -333,6 +333,4 @@ Shabbir Shaik
 
 ### 5. RTL Datapath Schematic
 
-![RTL Datapath Schematic](rtl_datapath_schematic.png.png)c
-
-![RTL Datapath Schematic](rtl_datapath_schematic.png)
+![RTL Datapath Schematic](rtl_datapath_schematic.png.png)
