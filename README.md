@@ -312,6 +312,7 @@ These screenshots provide visual verification of the implemented design.
 Author
 
 Shabbir Shaik
+
 ## Simulation Results
 ### 1. Behavioral Simulation Waveform
 ![Simulation Waveform](simulation_waveform.png.png)
